@@ -28,3 +28,7 @@ If you use Windows, maybe be need to add glut32.dll in the built project, it hap
 ![Image of starting stage of pacman](https://i.imgur.com/OLT27i6.png).
 ![Getting points in the go stage](https://i.imgur.com/pMdN6p6.png).
 ![Lose screen with frozen ghosts and pacman](https://i.imgur.com/QCCTCLc.png).
+
+## Video
+
+Link: [https://www.youtube.com/watch?v=I0CFMF5AEZU](https://www.youtube.com/watch?v=I0CFMF5AEZU)
