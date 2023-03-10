@@ -1,4 +1,11 @@
 # Haskell-Pacman
+![Shield showing the year of creation (2019)](https://img.shields.io/badge/Year-2019-red)
+![Shield showing the language of project(Haskell)](https://img.shields.io/badge/Language-Haskell-blueviolet)
+![Shield showing the library used in project(Floss)](https://img.shields.io/badge/Library-Gloss-orange)
+![Shield showing the course of project(Programming Paradigm)](https://img.shields.io/badge/Course-Programming%20Paradigm-blue)
+
+
+# What is this project?
 This project is a simplified Pacman made in Haskell, it does not have fruits or power up and the ghosts doesn't have the original AI. The game has a map maker to creater you own map, specifying pacman spawn point, ghost spawn point, points and walls, also is possible create warps and others Pacman structures.
 
 ## How to use
